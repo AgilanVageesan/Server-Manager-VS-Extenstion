@@ -17,7 +17,6 @@ namespace ServerManager
      
         public static String Path_of_StoreDB_XML_file1()
         {
-            //String file_path = "D:\\INTERN\\2020\\SocGen\\MyVSExtension\\ServerManager\\ServerManager\\ServerManager\\Properties\\StoreDB.xml";
             //return file_path;
             //String a = Properties.StoreDB;
             
